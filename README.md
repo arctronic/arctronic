@@ -152,10 +152,6 @@ Dynamic visualization tool for understanding complex algorithms through interact
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=arctronic&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=arctronic&count_private=true&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Shihab's GitHub Stats" />
-
 ### Contribution Activity
 
 [![Shihab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arctronic&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -221,14 +217,14 @@ Dynamic visualization tool for understanding complex algorithms through interact
 
 ## Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-shihab--sikder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab-sikder)
-[![GitHub](https://img.shields.io/badge/GitHub-arctronic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arctronic)
-[![Website](https://img.shields.io/badge/Website-tronics.dev-e05397?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tronics.dev)
-[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0f72c6d95f32)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801302606005)
-[![Calendly](https://img.shields.io/badge/Calendly-Schedule_Meeting-00A2FF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/shihabsikder98)
-[![Email](https://img.shields.io/badge/Email-contact@tronics.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tronics.dev)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tronics)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab-sikder)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arctronic)
+[![Website](https://img.shields.io/badge/-Website-e05397?style=flat&logo=google-chrome&logoColor=white)](https://tronics.dev)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0f72c6d95f32)
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801302606005)
+[![Calendly](https://img.shields.io/badge/-Calendly-00A2FF?style=flat&logo=googlemeet&logoColor=white)](https://calendly.com/shihabsikder98)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:contact@tronics.dev)
+[![Buy Me A Coffee](https://img.shields.io/badge/-Support-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tronics)
 
 ---
 
