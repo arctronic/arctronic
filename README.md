@@ -26,3 +26,53 @@
 - 💼 **Top Rated Freelancer** on Upwork — GIS, Computer Vision, Full-Stack Development
 
 ---
+
+## Tech Stack
+
+**Backend & Data Engineering**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector_DBs-8A2BE2?style=flat-square&logo=pinecone&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL-FF6B6B?style=flat-square&logo=databricks&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+
+**DevOps & Cloud Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Security & Compliance**
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-DC143C?style=flat-square&logo=security&logoColor=white)
+![Encryption](https://img.shields.io/badge/Encryption-4B0082?style=flat-square&logo=letsencrypt&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA_Compliance-00A86B?style=flat-square&logo=healthcare&logoColor=white)
+![Access Control](https://img.shields.io/badge/Access_Control-FF4500?style=flat-square&logo=auth0&logoColor=white)
+
+**AI/ML**
+
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-9370DB?style=flat-square&logo=neo4j&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-00D4AA?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=flat-square&logo=opencv&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
