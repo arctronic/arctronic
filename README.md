@@ -162,59 +162,6 @@ Dynamic visualization tool for understanding complex algorithms through interact
 
 <div align="center">
 
-## Professional Certifications
-
-<table>
-<tr>
-<td width="33%" align="center">
-<a href="https://www.credly.com/badges/82adebc7-9165-489d-895d-5b598625d9c2">
-<img src="https://images.credly.com/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png" width="150px" alt="IBM Cybersecurity Analyst"/>
-<br><b>IBM Cybersecurity Analyst</b><br>Professional Certificate
-</a>
-</td>
-<td width="33%" align="center">
-<a href="https://www.credly.com/badges/76a1c60f-a890-4b74-9ce5-8cd9ab4d27a0">
-<img src="https://images.credly.com/images/114ee3e0-902b-45df-b9d0-2f72a16386a8/IT_Fund_for_Cyber_Specialist.png" width="150px" alt="Cybersecurity IT Fundamentals"/>
-<br><b>Cybersecurity IT Fundamentals</b><br>Specialization
-</a>
-</td>
-<td width="33%" align="center">
-<a href="https://www.credly.com/badges/86b1b93b-472b-4297-8729-20a8e8b2ac9e">
-<img src="https://images.credly.com/images/708ec8c4-b6e3-4425-938a-620e3982c02e/blob" width="150px" alt="Cyber Threat Intelligence"/>
-<br><b>Cyber Threat Intelligence</b>
-</a>
-</td>
-</tr>
-<tr>
-<td width="33%" align="center">
-<a href="https://www.credly.com/badges/15f8a618-afbf-4d36-a5e7-aa23cbbc3df2">
-<img src="https://images.credly.com/images/ac3c7b20-510a-479f-b51f-b9e3972d25db/blob" width="150px" alt="Network Security & Database Vulnerabilities"/>
-<br><b>Network Security & Database</b><br>Vulnerabilities
-</a>
-</td>
-<td width="33%" align="center">
-<a href="https://www.credly.com/badges/9f5cd955-f620-4cbb-ad87-df6742131d47">
-<img src="https://images.credly.com/images/f7fe89b7-3b7d-47ba-afdd-b5d33ea2fdf6/image.png" width="150px" alt="Cybersecurity Compliance Framework"/>
-<br><b>Cybersecurity Compliance</b><br>Framework & System Administration
-</a>
-</td>
-<td width="33%" align="center">
-<a href="https://www.credly.com/badges/65fd42ac-71f0-42ec-8ef9-bd39e5567c7a">
-<img src="https://images.credly.com/images/c617d37c-9c45-4617-aabf-e11954e188ec/blob" width="150px" alt="Operating System Security"/>
-<br><b>Cybersecurity Roles & OS</b><br>Security
-</a>
-</td>
-</tr>
-</table>
-
-**[View all certifications and achievements on tronics.dev →](https://tronics.dev)**
-
-</div>
-
----
-
-<div align="center">
-
 ## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab-sikder)
