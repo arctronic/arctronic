@@ -12,3 +12,17 @@
 <img src="https://komarev.com/ghpvc/?username=arctronic&label=Profile%20Views&color=e05397&style=flat-square" alt="Profile Views" />
 
 </div>
+
+---
+
+## About Me
+
+**Founding Software Engineer @ [Everstar.ai](https://everstar.ai)** — Architected and managed large-scale data pipelines for nuclear regulatory intelligence, processing 3M+ NRC documents with advanced parsing, ETL workflows, and RAG integration for Gordian AI. Building AI infrastructure to accelerate nuclear power and make it faster, safer, and unstoppable.
+
+**Tech Lead @ [BinduLogic](https://bindulogic.com)** — Overseeing deployment of full-stack healthcare systems (HMS, LIS, RIS/PACS, E-Ticketing) at 14+ facilities including DMCH, CMCH, national medical institutes, and military hospitals - serving 2M+ patients across Bangladesh.
+
+- 🎓 **B.Sc. in Computer Science & Engineering** — Islamic University of Technology (IUT), Bangladesh
+- 🏆 **IBM Cybersecurity Analyst** | Multiple CTF Competition Winner (1st Place National Cyber Drill 2022)
+- 💼 **Top Rated Freelancer** on Upwork — GIS, Computer Vision, Full-Stack Development
+
+---
