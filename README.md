@@ -216,3 +216,22 @@ Dynamic visualization tool for understanding complex algorithms through interact
 </div>
 
 ---
+
+<div align="center">
+
+## Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shihab--sikder-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab-sikder)
+[![GitHub](https://img.shields.io/badge/GitHub-arctronic-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arctronic)
+[![Website](https://img.shields.io/badge/Website-tronics.dev-e05397?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tronics.dev)
+[![Upwork](https://img.shields.io/badge/Upwork-Top_Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0f72c6d95f32)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801302606005)
+[![Calendly](https://img.shields.io/badge/Calendly-Schedule_Meeting-00A2FF?style=for-the-badge&logo=googlemeet&logoColor=white)](https://calendly.com/shihabsikder98)
+[![Email](https://img.shields.io/badge/Email-contact@tronics.dev-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tronics.dev)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Support-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tronics)
+
+---
+
+<sub>💼 Open to consulting and collaboration opportunities</sub>
+
+</div>
