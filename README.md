@@ -76,3 +76,70 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ---
+
+## Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Gordian AI - Everstar
+
+**Nuclear Regulatory Intelligence Platform**
+
+AI-powered nuclear compliance system trained on 3M+ NRC regulatory documents. Built large-scale data pipelines with advanced parsing, ETL workflows, and RAG integration achieving near-zero hallucination rate.
+
+**Tech:** Next.js · RAG · GraphRAG · Python · Vector DBs · Airflow
+
+🔗 [everstar.ai](https://everstar.ai)
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 BinduLogic Hospital Management
+
+**Enterprise Healthcare Systems**
+
+Full-stack hospital management platform deployed at 14+ facilities including DMCH, CMCH, and national medical institutes. Comprehensive HMS, LIS, RIS/PACS, E-Ticketing, and Inventory systems serving 2M+ patients.
+
+**Tech:** React · Node.js · TypeScript · PostgreSQL · OpenMRS
+
+🔗 [bindulogic.com](https://bindulogic.com)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📧 Temp-Mail.lol
+
+**Disposable Email Service**
+
+Secure temporary email service with 50K+ active users and 4.8★ rating (1.2K+ reviews). Features instant disposable emails, real-time notifications, custom usernames, attachment support, and mobile-friendly PWA.
+
+**Tech:** React · Node.js · PostgreSQL · WebSocket · PWA
+
+🔗 [temp-mail.lol](https://temp-mail.lol)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎨 AlgoSketch
+
+**Algorithm Visualization Tool**
+
+Dynamic visualization tool for understanding complex algorithms through interactive animations. Features 5 sorting algorithms and 3 pathfinding algorithms with customizable speed controls and step-by-step execution.
+
+**Tech:** C++ · SFML · CMake
+
+🔗 [GitHub](https://github.com/arctronic/algosketch)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
