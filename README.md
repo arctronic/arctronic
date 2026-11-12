@@ -2,11 +2,11 @@
 
 # Shihab Sikder
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=FE428E&center=true&vCenter=true&width=640&lines=Founding+Software+Engineer+%40+Everstar;Tech+Lead+%40+BinduLogic;Data+Pipelines+%C2%B7+AI+Infrastructure+%C2%B7+DevOps)](https://tronics.dev)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=FE428E&center=true&vCenter=true&width=640&lines=Tech+Lead+%40+BinduLogic;Former+Founding+Engineer+%40+Everstar;GraphRAG+%C2%B7+Data+Pipelines+%C2%B7+Terraform)](https://tronics.dev)
 
-**AI/ML Engineer · Data Pipeline Architect · Full-Stack Developer**
+**Tech Lead · Full-Stack & AI Engineer**
 
-Dhaka, Bangladesh · [tronics.dev](https://tronics.dev) · [contact@tronics.dev](mailto:contact@tronics.dev) · [LinkedIn](https://linkedin.com/in/shihab-sikder)
+Dhaka, Bangladesh · [tronics.dev](https://tronics.dev) · [contact@tronics.dev](mailto:contact@tronics.dev) · [LinkedIn](https://www.linkedin.com/in/shihab-sikder)
 
 </div>
 
@@ -14,13 +14,15 @@ Dhaka, Bangladesh · [tronics.dev](https://tronics.dev) · [contact@tronics.dev]
 
 ## About
 
-I build data and AI infrastructure for high-stakes domains: nuclear regulation and public healthcare.
+I've spent 4+ years shipping production systems from start to finish, mostly in healthcare and AI document intelligence.
 
-- **Founding Software Engineer at [Everstar](https://everstar.ai).** I architect and run the data pipelines behind Gordian AI, which has processed 3M+ NRC regulatory documents through parsing, ETL and retrieval-augmented generation. The goal is to make nuclear power faster and safer to build.
-- **Tech Lead at [BinduLogic](https://bindulogic.com).** I lead deployment of hospital systems (HMS, LIS, RIS/PACS, e-ticketing) at 14+ facilities, including DMCH, CMCH, national medical institutes and military hospitals, serving 2M+ patients across Bangladesh.
+- **Tech Lead at [BinduLogic](https://bindulogic.com)** (Aug 2022 to present). I lead architecture and delivery of hospital management software running in 15+ government hospitals in Bangladesh, including ~15,000 patient visits a day at Dhaka Medical College. I own payments, auth and RBAC, and government health integrations (OpenMRS, HL7, Health-ID).
+- **Founding Software Engineer at [Everstar](https://everstar.ai)** (Apr 2024 to Jul 2026). Largely solo, I built a GraphRAG document intelligence platform over 3M+ NRC regulatory documents (~6.7 TB): Airflow ingestion with OCR and LLM correction, OpenSearch vector search, and a FastAPI backend that returns grounded, source-attributed answers. I also drove the GCP to Azure migration with Terraform and Kubernetes.
+- **Independent products.** I build and run my own SaaS, including a disposable email service with 50K+ users.
 
-**Education:** B.Sc. in Computer Science & Engineering, Islamic University of Technology (IUT)<br>
-**Recognition:** IBM Cybersecurity Analyst · 1st place, National Cyber Drill 2022 · Top Rated on Upwork
+**Certifications:** [HashiCorp Certified: Terraform Associate (004)](https://www.credly.com/badges/36664ab1-14a8-4b90-8772-0528ebfbd23d) · [IBM Cybersecurity Analyst](https://www.credly.com/badges/82adebc7-9165-489d-895d-5b598625d9c2)<br>
+**Achievements:** 1st, University Cyber Drill 2022 (national, BGD e-GOV CIRT) · 5th, KnightCTF 2022 (international) · Top Rated on Upwork, 100% Job Success<br>
+**Education:** B.Sc. in Computer Science & Engineering, Islamic University of Technology (IUT), 2019 to 2023
 
 ---
 
@@ -28,15 +30,16 @@ I build data and AI infrastructure for high-stakes domains: nuclear regulation a
 
 | Area | Tools |
 | :--- | :--- |
-| **Backend & Data** | Python, Node.js, TypeScript, PostgreSQL, MongoDB, Apache Airflow, vector databases, ETL, Express, Flask, Django |
-| **DevOps & Cloud** | Docker, Kubernetes, Terraform, Ansible, AWS, GCP, GitHub Actions |
-| **AI/ML** | RAG, GraphRAG, LLMs, NLP, computer vision |
-| **Security & Compliance** | Encryption, access control, HIPAA-aligned systems, CTF and security analysis |
+| **Languages** | TypeScript/JavaScript, Python, Kotlin, C#, C/C++ |
+| **Backend & Data** | Node.js (Express), FastAPI, PostgreSQL, Prisma, MongoDB, Redis, OpenSearch, Apache Airflow |
+| **DevOps & Cloud** | Terraform, Kubernetes, Docker, Ansible, Azure, GCP, AWS, Cloudflare, Datadog |
+| **AI/ML** | RAG, GraphRAG, LLM routing, agentic chat, multimodal embeddings, MCP, computer vision |
+| **Healthcare** | HL7, OpenMRS, government Health-ID integrations |
 | **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS |
 
 ---
 
-## Featured Projects
+## Featured Work
 
 <table>
 <tr>
@@ -45,19 +48,19 @@ I build data and AI infrastructure for high-stakes domains: nuclear regulation a
 ### [Gordian AI](https://everstar.ai)
 **Nuclear regulatory intelligence · Everstar**
 
-Compliance assistant grounded in 3M+ NRC regulatory documents. Large-scale parsing and ETL pipelines feed a RAG system built for accurate, cited answers.
+Regulatory search and chat for the nuclear industry. A GraphRAG pipeline over 3M+ NRC documents, with every answer grounded in retrieved sources and cited.
 
-<sub>Next.js · Python · RAG · GraphRAG · Vector DBs · Airflow</sub>
+<sub>Python · FastAPI · Airflow · OpenSearch · GraphRAG · Terraform · Kubernetes</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [BinduLogic Hospital Systems](https://bindulogic.com)
-**Enterprise healthcare platform**
+### [BinduLogic HMIS](https://bindulogic.com)
+**Hospital management platform**
 
-HMS, LIS, RIS/PACS, e-ticketing and inventory systems running at 14+ facilities, including DMCH and CMCH, serving 2M+ patients.
+OPD, IPD, e-ticketing, lab and inventory systems live in 15+ government hospitals, including DMCH, CMCH, NIDCH, NICRH and KGH.
 
-<sub>React · Node.js · TypeScript · PostgreSQL · OpenMRS</sub>
+<sub>TypeScript · React · Node.js · PostgreSQL · Prisma · Datadog · OpenMRS · HL7</sub>
 
 </td>
 </tr>
@@ -65,25 +68,27 @@ HMS, LIS, RIS/PACS, e-ticketing and inventory systems running at 14+ facilities,
 <td width="50%" valign="top">
 
 ### [Temp-Mail.lol](https://temp-mail.lol)
-**Disposable email service**
+**Disposable email SaaS · web + Android**
 
-Private temporary inboxes with real-time delivery, custom usernames and attachments. 50K+ active users, rated 4.8★ across 1.2K+ reviews.
+50K+ users and 50K+ Play Store downloads, rated 4.6★. Self-hosted SMTP with real-time inbox delivery over WebSockets.
 
-<sub>React · Node.js · PostgreSQL · WebSocket · PWA</sub>
+<sub>FastAPI · Next.js · Kotlin · MongoDB · Docker · Ansible</sub>
 
 </td>
 <td width="50%" valign="top">
 
-### [AlgoSketch](https://github.com/arctronic/algosketch)
-**Algorithm visualizer**
+### [SensorCast](https://sensorcast.app)
+**Real-time sensor streaming · Android + web**
 
-Interactive animations of 5 sorting and 3 pathfinding algorithms, with speed control and step-by-step execution.
+Streams 40+ phone sensors at 1 to 200 Hz to ESP32, Raspberry Pi, Arduino and web dashboards. A built-in MCP server gives LLM agents live awareness of their physical surroundings.
 
-<sub>C++ · SFML · CMake</sub>
+<sub>Kotlin · Node.js · Next.js · WebSockets · MCP</sub>
 
 </td>
 </tr>
 </table>
+
+<sub>Also: [easymanage.work](https://easymanage.work) (multi-tenant ERP/CRM SaaS) · [AlterLink](https://alterlink.app) (edge URL shortener with branded domains) · [AlgoSketch](https://github.com/zedrex/algosketch) (C++ algorithm visualizer)</sub>
 
 ---
 
@@ -103,11 +108,11 @@ Interactive animations of 5 sorting and 3 pathfinding algorithms, with speed con
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shihab-sikder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shihab-sikder)
 [![Website](https://img.shields.io/badge/tronics.dev-e05397?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tronics.dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@tronics.dev)
 [![Book a call](https://img.shields.io/badge/Book_a_call-006BFF?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/shihabsikder98)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01f2fd0f72c6d95f32)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/shihabsikder)
 
 <sub>Open to consulting and collaboration on data, AI and infrastructure work.</sub>
 

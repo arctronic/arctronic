@@ -26,14 +26,10 @@ The README.md uses:
 
 ### Profile Content Sections
 
-1. **Header** - Name as H1, typing animation cycling roles (Everstar + BinduLogic), title line, plain-text contact line
-2. **About** - One-line summary, then Everstar (3M+ NRC docs) first, BinduLogic (2M+ patients, 14+ facilities) second, then education/recognition
-3. **Tech Stack** - A two-column Markdown table (Area | Tools), plain text, no badges. Row order: Backend & Data, DevOps & Cloud, AI/ML, Security & Compliance, Frontend
-4. **Featured Projects** - 2x2 grid layout showcasing:
-   - Gordian AI (Everstar)
-   - BinduLogic Hospital Management
-   - Temp-Mail.lol
-   - AlgoSketch
+1. **Header** - Name as H1, typing animation (Tech Lead @ BinduLogic, former Founding Engineer @ Everstar), title line "Tech Lead · Full-Stack & AI Engineer", plain-text contact line
+2. **About** - One-line summary, then BinduLogic (current: 15+ government hospitals, ~15,000 visits/day at DMCH), Everstar (former, Apr 2024 to Jul 2026: 3M+ NRC docs, ~6.7 TB), independent products, then certifications/achievements/education
+3. **Tech Stack** - A two-column Markdown table (Area | Tools), plain text, no badges. Row order: Languages, Backend & Data, DevOps & Cloud, AI/ML, Healthcare, Frontend
+4. **Featured Work** - 2x2 grid: Gordian AI (Everstar), BinduLogic HMIS, Temp-Mail.lol, SensorCast; then a one-line "Also:" list (easymanage.work, AlterLink, AlgoSketch)
 5. **GitHub Activity** - Contribution streak card + self-generated activity graph
 6. **Get in Touch** - for-the-badge links (LinkedIn, website, email, Calendly, Upwork) and a one-line call to action
 
@@ -41,9 +37,9 @@ The README.md uses:
 
 When updating the profile:
 - **Typing animation** - Update roles if job titles change
-- **About section** - Everstar is prioritized first (3M+ NRC documents), BinduLogic second (2M+ patients, 14+ facilities)
+- **About section** - Source of truth for facts is the CV and tronics.dev (`/llms.txt`, `/resume.json`); Everstar is a past role (ended Jul 2026), BinduLogic is current
 - **Tech Stack** - Plain-text table; emphasizes Backend/Data Engineering and DevOps over Frontend
-- **Featured Projects** - Uses 2x2 table grid (not list format); project name in the heading is the link, tech line in `<sub>`
+- **Featured Work** - Uses 2x2 table grid (not list format); project name in the heading is the link, tech line in `<sub>`
 - Avoid clutter: no emoji headings, no view counters, no WhatsApp number or donation links
 - Keep professional tone and factual information
 - Update experience years and project counts as they change
