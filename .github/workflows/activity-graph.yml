@@ -1,0 +1,38 @@
+name: Generate activity graph
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main, master]
+    paths:
+      - .github/scripts/activity_graph.py
+      - .github/workflows/activity-graph.yml
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Render SVG
+        env:
+          # Optional: add a classic PAT with read:user as ACTIVITY_GRAPH_TOKEN to include private contributions.
+          GH_TOKEN: ${{ secrets.ACTIVITY_GRAPH_TOKEN || secrets.GITHUB_TOKEN }}
+        run: |
+          mkdir -p dist
+          python3 .github/scripts/activity_graph.py "${{ github.repository_owner }}" dist/activity-graph.svg 31
+
+      - name: Push to output branch
+        run: |
+          cd dist
+          git init -q -b output
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git commit -q -m "Update activity graph"
+          git push -f "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" output

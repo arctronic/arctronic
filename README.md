@@ -154,7 +154,7 @@ Dynamic visualization tool for understanding complex algorithms through interact
 
 ### Contribution Activity
 
-[![Shihab's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=arctronic&theme=radical&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shihab's github activity graph](https://raw.githubusercontent.com/arctronic/arctronic/output/activity-graph.svg)](https://github.com/arctronic)
 
 </div>
 
