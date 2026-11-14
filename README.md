@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=1200&color=FE428E&center=true&vCenter=true&width=640&lines=Tech+Lead+%40+BinduLogic;Former+Founding+Engineer+%40+Everstar;GraphRAG+%C2%B7+Data+Pipelines+%C2%B7+Terraform)](https://tronics.dev)
 
-**Tech Lead · Full-Stack & AI Engineer**
+**Tech Lead · Full-Stack & DevOps**
 
 Dhaka, Bangladesh · [tronics.dev](https://tronics.dev) · [contact@tronics.dev](mailto:contact@tronics.dev) · [LinkedIn](https://www.linkedin.com/in/shihab-sikder)
 
